@@ -167,12 +167,6 @@ Learned means:
  [0.05, 4.99]]
 ```
 
-Visualization:
-
-![EM as a Layer: Learned Gaussians](./em_layer_output.png)
-
----
-
 
 ## 🧭 Summary
 
